@@ -1,0 +1,15 @@
+Changelog 8/19/19
+
+-Added Cold Mechanic
+-Added random encounters
+-Changed fire burn down time
+-Change unlock order
+
+Changelog 8/20/19
+
+-Changed layout to graphic layout
+-Added hut mechanic
+-added forest and hunting
+-added harvesting of captured animals
+-some slight visual improvements on fadein
+
