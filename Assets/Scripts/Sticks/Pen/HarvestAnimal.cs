@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-//test
+
 public class HarvestAnimal : MonoBehaviour
 {
     public GameObject meatCounter;
